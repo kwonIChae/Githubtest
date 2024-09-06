@@ -4,12 +4,13 @@
 웹과 딥러닝 두 부분을 진행했으며, 웹 부분은 플라스크를 사용했다, 딥러닝은 CNN을 사용하였으며, 데이터는 0~9의 숫자 이미지로 이루어진 MNIST train 6만장 test 3만장으로 사용하였다. 
 
 
-결과 이미지는 
+## 결과 이미지
 ![output](https://github.com/user-attachments/assets/bc546b2e-be6d-478b-a037-b2e49fc15d5e)
-처럼 나왔고, 
 
-전체 설계도는 ![architecture](https://github.com/user-attachments/assets/ec670851-1d45-494d-b5f7-fa5d989c9301)
-로 만들었다. 
+
+## 전체 설계도
+![architecture](https://github.com/user-attachments/assets/ec670851-1d45-494d-b5f7-fa5d989c9301)
+
 
 참고는 Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E. Hinton. 
 
